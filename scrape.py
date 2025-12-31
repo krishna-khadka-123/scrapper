@@ -7,6 +7,10 @@
 #install git
 #git config --global user.name "krishna khadka"
 #git config --global user.email"chhetrikrishna7475@gmail.com"
+
+#always
+#git add .
+#git commit-m "your message"
 import json
 import csv
 import requests
