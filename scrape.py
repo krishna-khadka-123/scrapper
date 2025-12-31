@@ -11,6 +11,13 @@
 #always
 #git add .
 #git commit-m "your message"
+
+
+# => we usually do
+# 1 change the code 
+# 2 git add .
+# 3 git commit -m "message"
+# 4 git push
 import json
 import csv
 import requests
